@@ -25,9 +25,13 @@ html {
 }
 
 .banner {
-
+  position: relative;
+  color: #fff;
 }
 
 .banner-content {
-
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: #fff;
 }
